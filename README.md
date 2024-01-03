@@ -39,9 +39,8 @@
 ![feedView](https://github.com/kjm9547/Bragi/assets/50660458/afbaea62-3166-40cc-9133-559461bdfde0)
 
 
-![Screenshot_1704264407](https://github.com/kjm9547/Bragi/assets/50660458/ebdd1af5-5a8f-41a3-952c-9823ff0e2a52)
+![Screenshot_1704264407](https://github.com/kjm9547/Bragi/assets/50660458/cbcef70e-fc55-4d94-a5f5-dfde1644e0ee)
 
-![Screenshot_1704264423](https://github.com/kjm9547/Bragi/assets/50660458/73c509ac-bf10-4e56-9298-4b40788d87ad)
+![uloadView](https://github.com/kjm9547/Bragi/assets/50660458/f7634a72-6adb-41af-96f1-d3bb4c8eefa2)
 
-
-![Screenshot_1704264429](https://github.com/kjm9547/Bragi/assets/50660458/ac61a3d9-f491-447a-9e27-2f2afc712ba6)
+![Screenshot_1704264429](https://github.com/kjm9547/Bragi/assets/50660458/2ce56061-21de-4f33-a508-b5360b07b479)
