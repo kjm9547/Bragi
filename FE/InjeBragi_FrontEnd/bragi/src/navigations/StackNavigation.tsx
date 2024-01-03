@@ -1,0 +1,80 @@
+import { useNavigation } from "@react-navigation/native";
+import { createNativeStackNavigator, NativeStackNavigationProp } from "@react-navigation/native-stack"
+import Landing from "../screens/Landing";
+import SignInPage from "../screens/sign/signin/SignInPage";
+import SignUpBrith from "../screens/sign/signup/SignUpBirth";
+import SignUpId from "../screens/sign/signup/SignUpId";
+import SignUpImage from "../screens/sign/signup/SignUpImage";
+import SignUpName from "../screens/sign/signup/SignUpName";
+import SignUpPw from "../screens/sign/signup/SignUpPw";
+import TabNavigation from "./TabNavigation";
+import DetailFixPage from "../screens/guestPages/detail/DetailFixPage";
+import CreateFeedPage from "../screens/guestPages/main/feed/CreateFeedPage";
+import CreateFeedContentPage from "../screens/guestPages/main/feed/CreateFeedContentPage";
+import MusicUploadPage from "../screens/guestPages/upload/MusicUploadPage";
+import OptionPage from "../screens/guestPages/detail/OptionPage";
+
+export type RootStackParamList ={
+    Landing:undefined,
+    SignUpPw:undefined,
+    SignUpBirth:undefined,
+    SignUpName:undefined,
+    SignUpImage:undefined,
+    SignUpId:undefined,
+    SignIn:undefined,
+    Main:undefined,
+    Bottom:undefined,
+    UserFix:undefined,
+    CreateFeed:undefined,
+    CreateFeedContentPage:undefined,
+    MusicUploadPage:undefined,
+    OptionPage:undefined
+
+}
+const Stack = createNativeStackNavigator<RootStackParamList>();
+
+export default function StackNavigation(){
+    
+    return(
+        <Stack.Navigator 
+            screenOptions={{
+            headerShown:false
+            }}
+            initialRouteName="Landing">
+            <Stack.Screen name="Landing" component={Landing}/>
+            <Stack.Screen name="SignUpPw" component={SignUpPw}/>
+            <Stack.Screen name="SignUpId" component={SignUpId}/>
+            <Stack.Screen name="SignUpBirth" component={SignUpBrith}/>
+            <Stack.Screen name="SignUpName" component={SignUpName}/>
+            <Stack.Screen name="SignUpImage" component={SignUpImage}/>
+            <Stack.Screen name="SignIn" component={SignInPage}/>
+            
+            <Stack.Screen name="Bottom" component={TabNavigation}/>
+            <Stack.Screen name="UserFix" component={DetailFixPage} options={{
+                animation:"slide_from_bottom"
+            }}/>
+            <Stack.Screen name="CreateFeed" component={CreateFeedPage}
+                options={{
+                    animation:"slide_from_right"
+                }}/>
+            <Stack.Screen name="CreateFeedContentPage" component={CreateFeedContentPage}
+                options={{
+                    animation:"slide_from_right"
+                }}/>
+          
+          <Stack.Screen name="MusicUploadPage" component={MusicUploadPage} 
+           options={{
+            animation:"slide_from_right"
+        }}/>
+
+<Stack.Screen name="OptionPage" component={OptionPage} 
+           options={{
+            animation:"slide_from_right"
+        }}/>
+        </Stack.Navigator>
+    )
+}
+
+export const useRootNavigation = <RouteName extends keyof RootStackParamList> () =>{
+    return useNavigation<NativeStackNavigationProp<RootStackParamList,RouteName>>()
+}

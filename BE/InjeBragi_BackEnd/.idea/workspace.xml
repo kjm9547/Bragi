@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d3d52dc-bb25-4629-8b55-59e93fe8e543" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/bragi">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WYuMoyjjraUrx63terzZb79wyG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;84f7ce9f9fad539c4f9b3709da3511b8&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="BragiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.inje.bragi.BragiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d3d52dc-bb25-4629-8b55-59e93fe8e543" name="Changes" comment="" />
+      <created>1696921791866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696921791866</updated>
+      <workItem from="1696921795112" duration="1091000" />
+      <workItem from="1696926160130" duration="1228000" />
+      <workItem from="1696931228846" duration="651000" />
+      <workItem from="1697106489608" duration="161000" />
+      <workItem from="1697106776326" duration="1973000" />
+      <workItem from="1697196574091" duration="1974000" />
+      <workItem from="1697198598978" duration="1910000" />
+      <workItem from="1697362149966" duration="750000" />
+      <workItem from="1697450085935" duration="2048000" />
+      <workItem from="1698480979625" duration="123000" />
+      <workItem from="1698481197243" duration="58000" />
+      <workItem from="1698481362406" duration="1475000" />
+      <workItem from="1698664793909" duration="775000" />
+      <workItem from="1698729359074" duration="2466000" />
+      <workItem from="1698763120930" duration="241000" />
+      <workItem from="1698763831674" duration="1746000" />
+      <workItem from="1698770584219" duration="145000" />
+      <workItem from="1698932324527" duration="1947000" />
+      <workItem from="1699351675275" duration="1548000" />
+      <workItem from="1699455587395" duration="104000" />
+      <workItem from="1699455706031" duration="36000" />
+      <workItem from="1700981592701" duration="74000" />
+      <workItem from="1700981691002" duration="76000" />
+      <workItem from="1700981798683" duration="63000" />
+      <workItem from="1702294039272" duration="80000" />
+      <workItem from="1703269219562" duration="242000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
