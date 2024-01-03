@@ -41,6 +41,7 @@
 
 ![Screenshot_1704264407](https://github.com/kjm9547/Bragi/assets/50660458/cbcef70e-fc55-4d94-a5f5-dfde1644e0ee)
 
-![uloadView](https://github.com/kjm9547/Bragi/assets/50660458/f7634a72-6adb-41af-96f1-d3bb4c8eefa2)
+![uloadView](https://github.com/kjm9547/Bragi/assets/50660458/ab6edef6-86cf-47b5-8486-f4764e008e2e)
+
 
 ![Screenshot_1704264429](https://github.com/kjm9547/Bragi/assets/50660458/2ce56061-21de-4f33-a508-b5360b07b479)
