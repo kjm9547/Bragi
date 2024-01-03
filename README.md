@@ -9,6 +9,7 @@
 
 
 <br>
+
 ## 기술스택
 
 
@@ -31,9 +32,9 @@
 ![js](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-##Previews
+## Previews
 
-
+### 최초화면
 ![Screenshot_1704264329](https://github.com/kjm9547/Bragi/assets/50660458/dfedf15f-f11b-45ff-a021-437effe20d4c)
 
 
