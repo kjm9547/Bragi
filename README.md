@@ -33,7 +33,8 @@
 
 ##Previews
 
-![Screenshot_1704264329](https://github.com/kjm9547/Bragi/assets/50660458/3b5b0c17-ddb2-46ad-9321-07330e420d39)
+![Screenshot_1704264329](https://github.com/kjm9547/Bragi/assets/50660458/abd6dc04-7873-4004-9000-cf670a3588c6)
+
 
 
 ![Screenshot_1704264363](https://github.com/kjm9547/Bragi/assets/50660458/2d4d3cf7-3e75-44d6-8da5-7c4a4e48b375)
